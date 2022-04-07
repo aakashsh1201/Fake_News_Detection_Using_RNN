@@ -2,7 +2,7 @@ Recurrent neural networks (RNN) are the state of the art algorithm for sequentia
 It is the first algorithm that remembers its input, due to an internal memory, which makes it perfectly suited for machine learning problems 
 that involve sequential data.
 
-Here, in the following repository RNN is used to detect the fake news spread in reference to the below given dataset. 
+Here, in the following repository, RNN is used to detect the fake news spread in reference to the dataset given below. 
 
 Access the data used here :-
 >https://drive.google.com/drive/folders/1K_okSv_J2oWEZrttMLH1nAZHcja2b3oZ
